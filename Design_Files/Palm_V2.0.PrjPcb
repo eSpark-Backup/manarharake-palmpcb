@@ -166,6 +166,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EWQXTRDI
 
 [Document8]
+DocumentPath=PCB_Palm_v2.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PJEBOIUC
+
+[Document9]
 DocumentPath=Connector_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,22 +199,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCGWEDQU
 
-[Document9]
-DocumentPath=PCB_Palm_v2.0.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Palm_V2.0\Palm_V2.0.xlsx
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PJEBOIUC
 
 [Configuration1]
 Name=Sources
