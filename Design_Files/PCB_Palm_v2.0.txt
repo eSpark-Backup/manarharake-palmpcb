@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\MarsVirgo\Documents\GitHub\manarharake-palmpcb\Design_Files\PCB_Palm_v2.0.PcbDoc
-Date         : 6/16/2024
-Time         : 5:54:21 PM
+Date         : 6/18/2024
+Time         : 2:31:32 PM
 Time Elapsed : 00:00:01
 
 General
@@ -10,23 +10,23 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 74.64%
-    Connections, 209
-    Connections routed, 156
-    Connections remaining, 53
+    Routing completion, 98.58%
+    Connections, 211
+    Connections routed, 208
+    Connections remaining, 3
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 3, 359, 0, 423, 0, 18, 1, 0
-    Layer 1, 0, 0, 0, 26, 0, 0, 2, 0
-    Layer 2, 0, 0, 0, 15, 0, 0, 1, 0
-    Bottom Layer, 0, 0, 0, 29, 0, 0, 1, 0
-    Dimension, 0, 0, 0, 24, 3, 0, 0, 78
-    Board Outline, 6, 0, 0, 2882, 18, 0, 0, 0
+    Top Layer, 19, 359, 0, 544, 0, 21, 4, 0
+    Layer 1, 0, 0, 0, 96, 0, 0, 2, 0
+    Layer 2, 0, 0, 0, 85, 0, 0, 1, 0
+    Bottom Layer, 0, 0, 0, 69, 0, 0, 1, 0
+    Dimension, 0, 0, 0, 16, 2, 0, 0, 68
+    Board Outline, 6, 0, 0, 2795, 8, 0, 0, 0
     Mechanical 15, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 24, 127, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 24, 201, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 0, 0, 0, 593, 189, 10, 0, 0
+    Top Overlay, 0, 0, 0, 581, 189, 10, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
@@ -40,10 +40,10 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 0.9, 580.806, 23%
-    Layer 1, 3.66, 2361.531, 95%
-    Layer 2, 0.502, 323.82, 13%
-    Bottom Layer, 3.724, 2402.614, 97%
+    Top Layer, 3.286, 2120.077, 85%
+    Layer 1, 3.499, 2257.099, 91%
+    Layer 2, 0.697, 449.646, 18%
+    Bottom Layer, 3.598, 2321.147, 93%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias

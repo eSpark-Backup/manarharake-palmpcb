@@ -166,7 +166,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EWQXTRDI
 
 [Document8]
-DocumentPath=PCB_Palm_v2.0.PcbDoc
+DocumentPath=PCB_Palm_New_v2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -198,6 +198,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCGWEDQU
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Palm_V2.0\Design Rule Check - PCB_Palm_v2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
