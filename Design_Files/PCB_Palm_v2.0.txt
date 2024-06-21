@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\LiberDB\Documents\GitHub\manarharake-palmpcb\Design_Files\PCB_Palm_v2.0.PcbDoc
-Date         : 6/20/2024
-Time         : 10:25:37 PM
+Date         : 6/21/2024
+Time         : 5:53:36 PM
 Time Elapsed : 00:00:01
 
 General
@@ -10,23 +10,23 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 90.32%
+    Routing completion, 100.00%
     Connections, 217
-    Connections routed, 196
-    Connections remaining, 21
+    Connections routed, 217
+    Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 27, 273, 0, 420, 0, 16, 0, 0
-    Signal_1, 3, 0, 0, 98, 0, 0, 1, 0
-    Signal_2, 0, 0, 0, 110, 0, 0, 1, 0
-    Bottom Layer, 20, 90, 0, 157, 0, 10, 0, 0
+    Top Layer, 27, 273, 0, 423, 0, 16, 0, 0
+    Signal_1, 3, 0, 0, 93, 0, 0, 1, 0
+    Signal_2, 0, 0, 0, 118, 0, 0, 1, 0
+    Bottom Layer, 20, 90, 0, 199, 0, 14, 0, 0
     Dimension, 0, 0, 0, 0, 0, 0, 0, 76
-    Board Outline, 458, 0, 0, 27968, 20, 0, 0, 0
+    Board Outline, 5, 0, 0, 52, 6, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 26, 213, 0, 0, 0, 6, 0
+    Multi-Layer, 0, 26, 220, 0, 0, 0, 6, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 0, 0, 0, 370, 110, 4, 0, 0
+    Top Overlay, 0, 0, 0, 371, 110, 4, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 2816, 92, 6, 0, 0
@@ -40,10 +40,10 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 0.786, 507.408, 23%
-    Signal_1, 0.703, 453.342, 20%
-    Signal_2, 0.699, 451.173, 20%
-    Bottom Layer, 0.407, 262.425, 12%
+    Top Layer, 0.792, 511.086, 23%
+    Signal_1, 0.698, 450.488, 20%
+    Signal_2, 0.653, 421.4, 19%
+    Bottom Layer, 0.434, 280.318, 12%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
