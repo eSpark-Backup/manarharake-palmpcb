@@ -115,7 +115,6 @@ D123  RECTANGULAR        29.331      22.331       0.000 FLASH      90.000
 D124  ROUNDED             3.000       3.000       0.000  LINE       0.000
 D125  RECTANGULAR        88.000      26.000       0.000 FLASH       0.000
 D126  RECTANGULAR        43.000     118.000       0.000 FLASH       0.000
-D127  ROUNDED             6.000       6.000       0.000  LINE       0.000
-D128  ROUNDED             2.000       2.000       0.000  LINE       0.000
-D129  ROUNDED            16.000      16.000       0.000  LINE       0.000
-D130  ROUNDED            14.000      14.000       0.000  LINE       0.000
+D127  ROUNDED             2.000       2.000       0.000  LINE       0.000
+D128  ROUNDED            16.000      16.000       0.000  LINE       0.000
+D129  ROUNDED            14.000      14.000       0.000  LINE       0.000
