@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB_Palm_v2.0.GBR   6/26/2024  7:43:23 PM
+Gerber File Extension Report For: PCB_Palm_v2.0.GBR   9/19/2024  2:24:48 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -22,4 +22,5 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
+.GM                 Profile                                 
 ------------------------------------------------------------------------------------------
