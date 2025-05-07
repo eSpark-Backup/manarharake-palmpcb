@@ -1,11 +1,13 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Palm_V2.2.PrjPcb]
-   Generated File[Pick Place for PCB_Palm_v2.2.txt]
-   Generated File[Pick Place for PCB_Palm_v2.2.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Palm_V2.2.PrjPcb]
+   Generated File[PCB_Palm_v2.2-RoundHoles.TXT]
+   Generated File[PCB_Palm_v2.2-SlotHoles.TXT]
+   Generated File[PCB_Palm_v2.2.LDP]
+   Generated File[PCB_Palm_v2.2.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 9:53:49 AM On 5/7/2025
+Finished Output Generation At 11:10:10 AM On 5/7/2025
