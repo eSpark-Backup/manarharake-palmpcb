@@ -2,119 +2,44 @@
 FileName = PCB_Palm_v2.2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : PCB_Palm_v2.2.GPT
+Generating : Fabrication
+      File : PCB_Palm_v2.2.GM15
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D76
-    D77
-    D78
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_Palm_v2.2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Fabrication
 
 
 Used DCodes :
     D14
-    D17
-    D19
-    D74
-    D75
     D79
-    D80
-    D81
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
+    D163
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : PCB_Palm_v2.2.GPB
+Generating : Board Outline
+      File : PCB_Palm_v2.2.GM3
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D17
-    D19
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D101
+    D75
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB_Palm_v2.2.GTO
+Generating : Keep-Out Layer
+      File : PCB_Palm_v2.2.GKO
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Palm_v2.2.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -123,33 +48,19 @@ Used DCodes :
     D12
     D13
     D14
-    D15
+    D159
+    D160
+    D161
+    D162
 *************************************************************
 
 *************************************************************
-Generating : Signal_2
-      File : PCB_Palm_v2.2.G2
+Generating : Bottom Paste
+      File : PCB_Palm_v2.2.GBP
 
-    Adding Layer      : Signal_2
+    Adding Layer      : Bottom Paste
 
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D74
-    D94
-    D98
-    D100
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB_Palm_v2.2.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -157,27 +68,64 @@ Generating : Top Paste
 Used DCodes :
     D16
     D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
     D34
-    D35
-    D36
-    D37
     D38
+    D104
+    D105
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D120
+    D121
+    D157
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_Palm_v2.2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D42
+    D61
+    D62
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
 *************************************************************
 
 *************************************************************
@@ -227,51 +175,6 @@ Used DCodes :
     D71
     D72
     D73
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_Palm_v2.2.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D40
-    D42
-    D61
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D118
-    D119
-*************************************************************
-
-*************************************************************
-Generating : Signal_1
-      File : PCB_Palm_v2.2.G1
-
-    Adding Layer      : Signal_1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D74
-    D94
-    D95
-    D98
-    D100
 *************************************************************
 
 *************************************************************
@@ -336,13 +239,51 @@ Used DCodes :
     D98
     D99
     D100
+    D101
+    D102
+    D103
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB_Palm_v2.2.GBP
+Generating : Signal_1
+      File : PCB_Palm_v2.2.G1
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Signal_1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D74
+    D97
+    D101
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Signal_2
+      File : PCB_Palm_v2.2.G2
+
+    Adding Layer      : Signal_2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D74
+    D97
+    D98
+    D101
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_Palm_v2.2.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -350,16 +291,189 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D13
+    D14
+    D16
     D17
-    D19
+    D34
+    D38
+    D74
+    D75
+    D79
+    D80
+    D81
+    D97
+    D98
+    D99
+    D100
     D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB_Palm_v2.2.GBO
+Generating : Bottom Pad Master
+      File : PCB_Palm_v2.2.GPB
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D34
+    D38
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_Palm_v2.2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D76
+    D77
+    D78
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_Palm_v2.2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_Palm_v2.2.GTO
+
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
@@ -367,30 +481,8 @@ Used DCodes :
     D11
     D12
     D13
-    D120
-    D121
-    D122
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_Palm_v2.2.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : PCB_Palm_v2.2.GM3
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D75
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -403,8 +495,11 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D123
-    D124
+    D14
+    D79
+    D164
+    D165
+    D166
 *************************************************************
 
 *************************************************************
@@ -417,7 +512,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D123
+    D164
 *************************************************************
 
 *************************************************************
@@ -426,6 +521,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D125
+    D167
 *************************************************************
 

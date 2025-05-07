@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_Palm_v2.2.PcbDoc   4/24/2025  2:56:06 PM
+NCDrill File Report For: PCB_Palm_v2.2.PcbDoc   5/7/2025  9:51:21 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,12 +8,12 @@ ASCII SlotHoles File : PCB_Palm_v2.2-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             226       PTH        21.29inch (540.79mm)
+T1      12mil (0.3mm)                                             Round             257       PTH        24.33inch (617.97mm)
 T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.16mm)
-T3      36mil (0.92mm)                                            Round             14        PTH        2.22inch (56.44mm)
+T3      36mil (0.92mm)                                            Round             16        PTH        3.83inch (97.17mm)
 T4      40mil (1.02mm)                                            Round             6         PTH        0.50inch (12.70mm)
 T5      24mil (0.62mm)                                            Round             2         NPTH       0.23inch (5.78mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              252
+Totals                                                                              285
 
-Total Processing Time (hh:mm:ss) : 00:00:04
+Total Processing Time (hh:mm:ss) : 00:00:05
